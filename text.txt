@@ -1,0 +1,10 @@
+<td><span id="Kolkata_cloud_pct"></span></td>
+                <td><span id="Kolkata_temp"></span></td>
+                <td><span id="Kolkata_feels_like"></span></td>
+                <td><span id="Kolkata_humidity"></span></td>
+                <td><span id="Kolkata_min_temp"></span></td>
+                <td><span id="Kolkata_max_temp"></span></td>
+                <td><span id="Kolkata_wind_speed"></span></td>
+                <td><span id="Kolkata_wind_degrees"></span></td>
+                <td><span id="Kolkata_sunrise"></span></td>
+                <td><span id="Kolkata_sunset"></span></td>
